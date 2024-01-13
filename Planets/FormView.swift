@@ -85,11 +85,13 @@ struct FormView: View {
     
     func formAction() {
         if let selectedSatellite = satellite {
-            selectedSatellite.name = satelliteName
+            let edited = Satellite(id: selectedSatellite.id, name: satelliteName)
+            modelContext.insert(edited)
+            edited.planet = planet
         } else {
             let newSatellite = Satellite(id: UUID(), name: satelliteName)
             modelContext.insert(newSatellite)
-            newSatellite.planet = planet
+            
         }
         close()
     }

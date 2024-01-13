@@ -14,7 +14,7 @@ struct PlanetsApp: App {
 
     @MainActor
     var appContainer: ModelContainer {
-        let container = try! ModelContainer(for: Planet.self, Satellite.self)
+        let container = try! ModelContainer()
         var fetchDescriptor = FetchDescriptor<Planet>()
         fetchDescriptor.fetchLimit = 1
 

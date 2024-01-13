@@ -14,7 +14,7 @@ class Planet {
     let planetDescription: String
     let distanceSun: Float //astronomical units
     
-    @Relationship(deleteRule: .cascade, inverse: \Satellite.planet) var satellites: [Satellite]
+    @Relationship(inverse: \Satellite.planet) var satellites: [Satellite]
     
         
     init(name: String, planetDescription: String, distanceSun: Float, satellites: [Satellite] = []) {
@@ -29,7 +29,7 @@ class Planet {
 class Satellite {
     @Attribute(.unique) var id: UUID
     var name: String
-    var planet: Planet?
+    @Relationship(inverse: \Planet.satellites) var planet: Planet?
     
     init(id: UUID = .init(), name: String) {
         self.id = id
