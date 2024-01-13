@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DataBasePlanetContainer.addSatelite(_:):DataBasePlanetContainer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "satelite.toSateliteDB()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in ContentView.body.getter:ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedSatelite">
+            </PersistentString>
+            <PersistentString
+               value = "showForm">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlanetViewModel.addSatelite(_:to:):PlanetViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SateliteFormView.formAction():SateliteFormView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "planetName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlanetViewModel.updatePlanet(_:showSatelites:):PlanetViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in closure #1 in closure #1 in closure #1 in ContentView.body.getter:ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "showForm">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in ContentView.body.getter:ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "popupViewModel.planetName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
