@@ -32,6 +32,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/depura-el-codigo-swift-y-swiftdata/
-[lil-thumbnail-url]: https:
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQE5_1z9MfyikQ/learning-public-crop_675_1200/0/1707399185826?e=2147483647&v=beta&t=QAZeUVM3xDDeabljo-nr38SRcvl2uE9DAf1TU-r1Avc
 
 [1]: # (End of ES-Instruction ###############################################################################################)
