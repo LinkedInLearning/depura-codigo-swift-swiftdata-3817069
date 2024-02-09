@@ -2,6 +2,8 @@
 
 Este es el repositorio del curso de LinkedIn Learning `Depura el código: Swift y SwiftData`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
+https://media.licdn.com/dms/image/D560DAQE5_1z9MfyikQ/learning-public-crop_675_1200/0/1707399185826?e=2147483647&v=beta&t=QAZeUVM3xDDeabljo-nr38SRcvl2uE9DAf1TU-r1Avc
+
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
